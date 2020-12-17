@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=polandeme?theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=polandeme&show_icons=true&theme=onedark)
+
 
 
 <!--
